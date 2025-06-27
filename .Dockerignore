@@ -1,0 +1,12 @@
+# Évite d’ajouter les dépendances locales
+node_modules
+
+# Fichiers sensibles et inutiles
+.env
+*.log
+.DS_Store
+
+# Dossiers de versioning ou d’IDE
+.git
+.vscode
+.idea
